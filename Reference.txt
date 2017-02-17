@@ -1,2 +1,6 @@
 Web developement with Node and Express.pdf - Ethan Brown
 https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res
+https://dzone.com/articles/the-21-most-awesome-awesome-lists-for-nodejs-devel
+https://dzone.com/articles/angular-2-and-spring-boot-development-environment
+https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1
+https://dzone.com/articles/components-of-angular2-architecture
