@@ -1,1 +1,2 @@
 Web developement with Node and Express.pdf - Ethan Brown
+https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res
