@@ -4,3 +4,10 @@ https://dzone.com/articles/the-21-most-awesome-awesome-lists-for-nodejs-devel
 https://dzone.com/articles/angular-2-and-spring-boot-development-environment
 https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1
 https://dzone.com/articles/components-of-angular2-architecture
+
+###########  Linux  ##############################
+https://www.ibm.com/developerworks/linux/library/
+https://www.ibm.com/developerworks/linux/library/l-lpic1-map/
+https://www.ibm.com/developerworks/library/l-lpic1-101-1/
+https://www.ibm.com/developerworks/library/l-lpic1-101-2/
+https://www.ibm.com/developerworks/library/l-lpic1-101-3/
