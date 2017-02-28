@@ -1,12 +1,19 @@
-##########  Angular 2   ######################################
-https://dzone.com/articles/serverless-rest-api-with-angular-persistence-and-s
-https://dzone.com/articles/angular-2-and-spring-boot-development-environment
-https://dzone.com/articles/components-of-angular2-architecture
 
 Web developement with Node and Express.pdf - Ethan Brown
 https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res
 https://dzone.com/articles/the-21-most-awesome-awesome-lists-for-nodejs-devel
 https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1
+-----------------------------------------------------------------------------------------
+
+##########  Angular 2   ######################################
+https://dzone.com/articles/serverless-rest-api-with-angular-persistence-and-s
+https://dzone.com/articles/angular-2-and-spring-boot-development-environment
+https://dzone.com/articles/components-of-angular2-architecture
+----------------------------------------------------------------------------------------------
+
+##########  React   ######################################
+https://github.com/prashcr/kanban-app
+----------------------------------------------------------------------------------------------
 
 ###########  Linux  ##############################
 https://www.ibm.com/developerworks/linux/library/
@@ -14,9 +21,10 @@ https://www.ibm.com/developerworks/linux/library/l-lpic1-map/
 https://www.ibm.com/developerworks/library/l-lpic1-101-1/
 https://www.ibm.com/developerworks/library/l-lpic1-101-2/
 https://www.ibm.com/developerworks/library/l-lpic1-101-3/
-
+-----------------------------------------------------------------------------------------------
 
 ###########  Spring  ##############################
 https://github.com/codecentric/spring-boot-admin
 http://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 http://spring.io/blog/2017/02/21/this-week-in-spring-february-21st-2017
+-------------------------------------------------------------------------------------------------
