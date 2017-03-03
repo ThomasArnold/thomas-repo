@@ -1,4 +1,5 @@
-
+http://www.javaworld.com/article/3148705/application-development/osgi-at-the-uks-biggest-science-lab.html
+------------------------------------------------------------------------------------------
 Web developement with Node and Express.pdf - Ethan Brown
 https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res
 https://dzone.com/articles/the-21-most-awesome-awesome-lists-for-nodejs-devel
@@ -27,4 +28,5 @@ https://www.ibm.com/developerworks/library/l-lpic1-101-3/
 https://github.com/codecentric/spring-boot-admin
 http://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 http://spring.io/blog/2017/02/21/this-week-in-spring-february-21st-2017
+http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spring-data-redis.html
 -------------------------------------------------------------------------------------------------
