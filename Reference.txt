@@ -14,6 +14,7 @@ https://dzone.com/articles/components-of-angular2-architecture
 
 ##########  React   ######################################
 https://github.com/prashcr/kanban-app
+https://dzone.com/articles/adding-users-to-the-nodejs-reactjs-neo4j-movie-app
 ----------------------------------------------------------------------------------------------
 
 ###########  Linux  ##############################
@@ -29,4 +30,13 @@ https://github.com/codecentric/spring-boot-admin
 http://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 http://spring.io/blog/2017/02/21/this-week-in-spring-february-21st-2017
 http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spring-data-redis.html
+-------------------------------------------------------------------------------------------------
+
+###########  Java 8  ##############################
+1) https://www.javacodegeeks.com/2014/04/java-8-friday-the-dark-side-of-java-8.html
+2) https://www.javacodegeeks.com/2014/04/15-must-read-java-8-tutorials.html
+3) https://www.javacodegeeks.com/2014/04/java-8-date-time-api-tutorial-localdatetime.html
+4) https://www.javacodegeeks.com/2014/04/abstract-class-versus-interface-in-the-jdk-8-era.html
+5) http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html#overview
+
 -------------------------------------------------------------------------------------------------
