@@ -15,6 +15,7 @@ https://dzone.com/articles/components-of-angular2-architecture
 ##########  React   ######################################
 https://github.com/prashcr/kanban-app
 https://dzone.com/articles/adding-users-to-the-nodejs-reactjs-neo4j-movie-app
+https://github.com/neo4j-examples/neo4j-movies-template
 ----------------------------------------------------------------------------------------------
 
 ###########  Linux  ##############################
