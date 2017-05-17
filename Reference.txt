@@ -10,6 +10,7 @@ https://dzone.com/articles/glossary-of-modern-javascript-concepts-part-1
 https://dzone.com/articles/serverless-rest-api-with-angular-persistence-and-s
 https://dzone.com/articles/angular-2-and-spring-boot-development-environment
 https://dzone.com/articles/components-of-angular2-architecture
+https://github.com/papapin/Ng-book-2-/
 ----------------------------------------------------------------------------------------------
 
 ##########  React   ######################################
