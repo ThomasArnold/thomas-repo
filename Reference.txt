@@ -46,3 +46,8 @@ http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spri
 ###########  Node JS  ##############################
 https://blog.risingstack.com/
 https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/
+
+---------------------------------------------------------------------------------
+############# Downloads #############################
+http://cdn.mysql.com/Downloads/MySQL-5.7/mysql-5.7.18-winx64.msi
+https://cdn.mysql.com//Downloads/MySQLInstaller/mysql-installer-web-community-5.7.18.1.msi
