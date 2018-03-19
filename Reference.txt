@@ -1,3 +1,12 @@
+####################    Interview   ###################################################
+1) https://www.edureka.co/blog/interview-questions/java-interview-questions/
+2) https://www.edureka.co/blog/object-oriented-programming/
+3) http://javarevisited.blogspot.in/2018/02/5-must-read-books-to-become-software-architect-solution.html
+4) http://javarevisited.blogspot.in/2011/11/collection-interview-questions-answers.html#at_pco=smlwn-1.0&at_si=5aaf321fc60bf039&at_ab=per-2&at_pos=0&at_tot=1
+5) https://www.edureka.co/blog/java-tutorial/
+6) https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
+7) https://www.edureka.co/blog/what-is-devops/
+---------------------------------------------------------------------------------------------------
 http://www.javaworld.com/article/3148705/application-development/osgi-at-the-uks-biggest-science-lab.html
 ------------------------------------------------------------------------------------------
 Web developement with Node and Express.pdf - Ethan Brown
